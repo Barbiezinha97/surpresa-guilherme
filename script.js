@@ -1,4 +1,4 @@
-```javascript
+
 // ==========================================
 // CONTAGEM PARA O ANIVERSÁRIO
 // ==========================================
@@ -184,8 +184,6 @@ function criarCoracao() {
         heart.remove();
 
     }, 10000);
-
-}
 
 
 setInterval(criarCoracao, 650);
